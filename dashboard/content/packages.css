@@ -1,0 +1,18 @@
+.li li:before
+{
+    content: '✔';
+    color: #2e6da4;
+
+}
+
+.li li {
+     list-style: none;
+    list-style-position: outside;
+    padding-top: 8px;
+
+}
+.li {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+
+}
